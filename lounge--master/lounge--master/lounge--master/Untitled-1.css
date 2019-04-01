@@ -5,15 +5,15 @@
   color: #444444;
   border-color: black;
   border-width: 1px;
-  border-style: dashed;
+  border-style: solid;
   background-color: #007e7e;
   padding: 25px;
   margin: 30px;
-  margin-right: 40%;
+  padding-left: 80px;
+  margin-right: 250px;
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
-  border-radius: 50px;
 }
 .elixirs{
   border-width: 20px;
@@ -32,13 +32,4 @@
 
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
-  float: right;
-}
-.cd{
-  font-style: italic;
-
-}
-.artist{
-  font-weight: bold;
-
 }
